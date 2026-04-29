@@ -1,23 +1,31 @@
-# Greetings, I'm Alvin Mwiki,
-I am a 19 year old Junior developer from Nairobi. I intent to build real soutions that will help people.
-I am currently on a 365 day mission to master fullstack development.
+Hi, I'm Alvin Mwiki
+19 year old Junior developer from Nairobi. 
+Building real soutions for real problems.
+Currently on a 365 day mission to master fullstack development.
 
 ## About me
-I am studying Applied Computer Technology at USIU-Africa. 
-I am currently learning HTML, CSS, Javascript and Python  from the ground up.
-My goal is to use to use the skills that I'll learn from this journey to find solutions to problems that can be solved with tech and start shipping products by next year. Id want to do freelancing as well and acquire skills from different place. And also land a remote job if posssible.
-Chess, Muay Thai and BJJ to clear my mind.
+-Studying Applied Computer Technology at USIU-Africa. 
+-Learning HTML, CSS, Javascript and Python  from the ground up.
+-Shipping my  first product by nnext year. Freelancing. Remote work. All of it
+-Chess, Muay Thai and BJJ to sharpen the mind.
 
 ## Currently learning
-HTML & CSS - Building real pages and not vibe coding.
-Javascript - Learn the most popular programming language in the planet that makes things actually work.
-Python- Scripting, Logic and Problem solving.
-Git & Github - Being able to version control from day one.
+-HTML & CSS - Building real pages and not vibe coding.
+-Javascript - Language thata makes the web work.
+-Python- Scripting, Logic and Problem solving.
+-Git & Github - Version control from day one.
 
 ## Projects
 Coming soon -  Chek back in 30 days.
 
 ## Goals by the next year
-Github all green by december
-First freelance client by august.
-Resume that is actually worth something by next year.
+-Github all green by december
+-First freelance client by august.
+-A resume that shocks people for my age.
+
+## Tools
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
